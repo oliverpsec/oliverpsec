@@ -4,7 +4,7 @@ Aspiring Security Engineer building practical experience across networking, syst
 
 I enjoy understanding how systems behave at a deeper level — how they are built, how they communicate, and how they can be secured. My focus is on developing strong technical foundations while exploring both defensive and offensive security concepts in a practical way.
 
----
+====================================================
 
 ## Core Focus Areas
 
@@ -15,7 +15,7 @@ I enjoy understanding how systems behave at a deeper level — how they are buil
 - Penetration testing principles and ethical security testing
 - Python scripting for automation and security tooling
 
----
+====================================================
 
 ## Development & Scripting
 
